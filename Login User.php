@@ -4,6 +4,9 @@ include('./basics/Head.php');
 ?>
 
 
+
+.
+
 <div class="container py-5">
     <h1 class="text-primary">Day 2 </h1>
 
